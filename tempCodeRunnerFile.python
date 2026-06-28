@@ -1,6 +1,0 @@
-n=int(input("enter the no"))
-for i in range(n,1000):
-    n=int(input("enter the no"))
-    
-    for j in range(1,11):
-        print(f"{i}%{j}={i/j}")
